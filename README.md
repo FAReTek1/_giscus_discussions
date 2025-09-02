@@ -1,2 +1,3 @@
 # _giscus_discussions
-Place for giscus to do its stuffies
+
+This repository hosts the discussions used by @giscus for the comments sections on [my github pages](https://faretek1.github.io/).
